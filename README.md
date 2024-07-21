@@ -1,3 +1,11 @@
+# Forking Disclaimer
+
+This repo was forked from "https://github.com/microsoft/graphrag/" on 2024-07-21. 
+Further deveilopment on this repo will suit my needs from here on out, but I will 
+adhere to the requirements of using this code.
+
+From this line forward, everything in the README file(s) are from the original devs.
+
 # GraphRAG
 
 👉 [Use the GraphRAG Accelerator solution](https://github.com/Azure-Samples/graphrag-accelerator) <br/>
